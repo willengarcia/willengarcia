@@ -9,6 +9,8 @@
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=willengarcia&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willengarcia)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style='display:inline_block'><br/>
@@ -23,8 +25,6 @@
     <img align='center'  alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
     <img align='center'  alt='PostGreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
 </div><br/>
-
-Realizando ideias além da imaginação
 
 ## Últimos Projetos:
 - [Serviço Expresso](https://servicos-bice.vercel.app/)
