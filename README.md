@@ -1,10 +1,7 @@
 ### Olá, eu sou o Willen Garcia 👾👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willen_garcia05/profilecard/?igsh=MmloY2IzNjRoNmwy)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/willen-garcia-271a49173)
-
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591998185808)
-
 [![E-commerce](https://img.shields.io/website?label=Servicexpress.com&style=for-the-badge&url=https://servicos-bice.vercel.app/)](https://servicos-bice.vercel.app/)
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=willengarcia&show_icons=true&theme=radical)
